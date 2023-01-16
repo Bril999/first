@@ -1,0 +1,33 @@
+html, body {
+    height:100%;
+    width: 100%;
+    background-color: lightseagreen;
+  }
+  .form {
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+  }
+  .btn1 {
+    align-content: center;
+    color:lightblue;
+    background-color:blueviolet;
+    margin-top: 10px;
+  }
+  .btn1:hover {
+    color:crimson;
+    background-color: orange;
+  }
+  .btn1:visited {
+    color:violet;
+    background-color: turquoise;
+  }
+  .btn1:active {
+    color:springgreen;
+    background-color: royalblue;
+  }
+  .center {
+    text-align: center;
+    color:blue;
+  }
